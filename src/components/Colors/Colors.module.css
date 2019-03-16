@@ -1,0 +1,19 @@
+.colors {
+    height: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+}
+
+.colors > * {
+    flex: 1;
+    transition: .5s;
+}
+
+.colors > *:hover {
+    flex: 2;
+}
+
+.colors > *:hover h1 {
+    display: block;
+}
