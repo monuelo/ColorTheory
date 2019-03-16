@@ -1,0 +1,57 @@
+{
+    "blue": {
+        "title": "Blue",
+        "rgb": "#139ED0",
+        "tags": []
+    },
+    "green": {
+        "title": "Green",
+        "rgb": "#85C239",
+        "tags": []
+    },
+    "yellow": {
+        "title": "Yellow",
+        "rgb": "#EADD01",
+        "tags": []
+    },
+    "purple": {
+        "title": "Purple",
+        "rgb": "#61287E",
+        "tags": []
+    },
+    "pink": {
+        "title": "Pink",
+        "rgb": "#EF3582",
+        "tags": []
+    },
+    "red": {
+        "title": "Red",
+        "rgb": "#D01919",
+        "tags": []
+    },
+    "orange": {
+        "title": "Orange",
+        "rgb": "#D87116",
+        "tags": []
+    },
+    "brown": {
+        "title": "Brown",
+        "rgb": "#764B24",
+        "tags": []
+    },
+    "gray": {
+        "title": "Gray",
+        "rgb": "#BFBFBF",
+        "tags": []
+    },
+    "white": {
+        "title": "White",
+        "rgb": "#FFFFFF",
+        "tags": []
+    },
+    "black": {
+        "title": "Black",
+        "rgb": "#111111",
+        "tags": []
+    }
+}
