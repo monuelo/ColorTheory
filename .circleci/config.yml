@@ -1,6 +1,6 @@
 version: 2
 jobs:
-  deploy:
+  build:
     docker:
       - image: circleci/node:10
     steps:
@@ -17,11 +17,9 @@ jobs:
           key: dependency-cache-{{ checksum "package.json" }}
           paths:
             - node_modules
-      - deploy:
-          name: Deploy on gh-pages
-          command: npm run deploy    
+            
 workflows:
   version: 2
   build_and_test:
     jobs:
-      - deploy
+      - build
