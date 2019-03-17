@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ColorTheory/precache-manifest.75a8eb03f9c410aabe1a07bbc754b292.js"
+  "/ColorTheory/precache-manifest.d913603c72f01996465ea8d116e6c4e7.js"
 );
 
 workbox.clientsClaim();
