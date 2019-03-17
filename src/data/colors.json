@@ -2,56 +2,78 @@
     "blue": {
         "title": "Blue",
         "rgb": "#139ED0",
-        "tags": []
+        "details": {
+            
+        }
     },
     "green": {
         "title": "Green",
         "rgb": "#85C239",
-        "tags": []
+        "details": {
+            
+        }
     },
     "yellow": {
         "title": "Yellow",
         "rgb": "#EADD01",
-        "tags": []
+        "details": {
+            
+        }
     },
     "purple": {
         "title": "Purple",
         "rgb": "#61287E",
-        "tags": []
+        "details": {
+            
+        }
     },
     "pink": {
         "title": "Pink",
         "rgb": "#EF3582",
-        "tags": []
+        "details": {
+            
+        }
     },
     "red": {
         "title": "Red",
         "rgb": "#D01919",
-        "tags": []
+        "details": {
+            
+        }
     },
     "orange": {
         "title": "Orange",
         "rgb": "#D87116",
-        "tags": []
+        "details": {
+            
+        }
     },
     "brown": {
         "title": "Brown",
         "rgb": "#764B24",
-        "tags": []
+        "details": {
+            
+        }
     },
     "gray": {
         "title": "Gray",
         "rgb": "#BFBFBF",
-        "tags": []
+        "details": {
+            
+        }
     },
     "white": {
         "title": "White",
         "rgb": "#FFFFFF",
-        "tags": []
+        "details": {
+            
+        }
     },
     "black": {
         "title": "Black",
         "rgb": "#111111",
-        "tags": []
+        "details": {
+            
+        }
     }
 }

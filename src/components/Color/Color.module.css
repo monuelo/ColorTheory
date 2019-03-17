@@ -1,5 +1,15 @@
 .title {
-    color: rgba(0, 0, 0, 0.7);
+    color: rgba(0, 0, 0, 0.4);
     text-align: center;
     display: none;
+}
+
+.color {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.expanded {
+    flex: 100% !important;
 }
