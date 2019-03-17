@@ -2,10 +2,7 @@
 
  [![Greenkeeper badge](https://badges.greenkeeper.io/hericlesme/ColorTheory.svg)](https://greenkeeper.io/) [![CircleCI](https://circleci.com/gh/hericlesme/ColorTheory.svg?style=svg)](https://circleci.com/gh/hericlesme/ColorTheory)
 
-### The Theory of colors and their meanings in an interactive way
-
 ![Color Theory Logo](https://imgur.com/XE6WGCc.png)
-
 
 ## Scripts
 
