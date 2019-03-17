@@ -1,13 +1,13 @@
 {
-  "main.css": "/ColorTheory/static/css/main.7897975d.chunk.css",
-  "main.js": "/ColorTheory/static/js/main.67c7c5a6.chunk.js",
-  "main.js.map": "/ColorTheory/static/js/main.67c7c5a6.chunk.js.map",
-  "runtime~main.js": "/ColorTheory/static/js/runtime~main.dd745cfb.js",
-  "runtime~main.js.map": "/ColorTheory/static/js/runtime~main.dd745cfb.js.map",
-  "static/js/2.e49df853.chunk.js": "/ColorTheory/static/js/2.e49df853.chunk.js",
-  "static/js/2.e49df853.chunk.js.map": "/ColorTheory/static/js/2.e49df853.chunk.js.map",
-  "index.html": "/ColorTheory/index.html",
-  "precache-manifest.d913603c72f01996465ea8d116e6c4e7.js": "/ColorTheory/precache-manifest.d913603c72f01996465ea8d116e6c4e7.js",
-  "service-worker.js": "/ColorTheory/service-worker.js",
-  "static/css/main.7897975d.chunk.css.map": "/ColorTheory/static/css/main.7897975d.chunk.css.map"
+  "main.css": "/static/css/main.7897975d.chunk.css",
+  "main.js": "/static/js/main.67c7c5a6.chunk.js",
+  "main.js.map": "/static/js/main.67c7c5a6.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.e49df853.chunk.js": "/static/js/2.e49df853.chunk.js",
+  "static/js/2.e49df853.chunk.js.map": "/static/js/2.e49df853.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.23b6c4fb18e9aeb5a60ce765b3de513c.js": "/precache-manifest.23b6c4fb18e9aeb5a60ce765b3de513c.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.7897975d.chunk.css.map": "/static/css/main.7897975d.chunk.css.map"
 }
