@@ -27,10 +27,12 @@ class Color extends Component {
 
         return (
             <div className={classNames(this.getClassNames())} style={backgroundStyle} onClick={this.toogleState}>
-                <h1 className={styles.title}>
-                    {this.props.color.title}
-                </h1>
-                {this.state.expanded && <ColorDetail details={this.props.color.details} />}
+                { !this.state.expanded &&
+                    <h1 className={styles.title}>
+                        {this.props.color.title}
+                    </h1>
+                }
+                {this.state.expanded && <ColorDetail details={this.props.color} />}
             </div>
         )
     }

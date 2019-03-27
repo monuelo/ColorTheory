@@ -12,4 +12,5 @@
 
 .expanded {
     flex: 100% !important;
+    justify-content: flex-start;
 }
