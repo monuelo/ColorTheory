@@ -17,9 +17,6 @@ jobs:
           key: dependency-cache-{{ checksum "package.json" }}
           paths:
             - node_modules
-    branches:
-      only:
-        - master
         
 workflows:
   version: 2
