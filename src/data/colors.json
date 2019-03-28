@@ -2,78 +2,67 @@
     "blue": {
         "title": "Blue",
         "rgb": "#139ED0",
-        "details": {
-            
-        }
+        "meaning": "The color blue is related to the nobility and is used to convey harmony, tranquility and serenity. Being a cold color, it is sometimes associated with monotony and depression.",
+        "details": {}
     },
     "green": {
         "title": "Green",
         "rgb": "#85C239",
-        "details": {
-            
-        }
+        "meaning": "This is the color most associated with nature and the feeling of hope, but it is also related to concepts such as health, money, vitality and youth. It is often used in environments to have a calming effect.",
+        "details": {}
     },
     "yellow": {
         "title": "Yellow",
         "rgb": "#EADD01",
-        "details": {
-            
-        }
+        "meaning": "Used to pass the sensation of light and heat, the yellow stimulates the reasoning and the creativity. It can also be used to represent joy, optimism and joviality.",
+        "details": {}
     },
     "purple": {
         "title": "Purple",
         "rgb": "#61287E",
-        "details": {
-            
-        }
+        "meaning": "The meaning of the color purple is often associated with spirituality, mystery and mysticism. This color is obtained by mixing blue and red and is often used to convey melancholy.",
+        "details": {}
     },
     "pink": {
         "title": "Pink",
         "rgb": "#EF3582",
-        "details": {
-            
-        }
+        "meaning": "It is the color of romanticism and delicacy, being more associated with the feminine world. The different tones may have different meanings, but usually this color is used to refer to love and innocence.",
+        "details": {}
     },
     "red": {
         "title": "Red",
         "rgb": "#D01919",
-        "details": {
-            
-        }
+        "meaning": "This warm color conveys a lot of energy and symbolizes passion and love. It is a strong color and so can often also be associated with power and violence. It is known to stimulate circulation and improve self-esteem.",
+        "details": {}
     },
     "orange": {
         "title": "Orange",
         "rgb": "#D87116",
-        "details": {
-            
-        }
+        "meaning": "It is created by blending red and yellow and conveys joy and vitality. It can also mean success and prosperity. It conveys enthusiasm, but when used in exaggeration can cause anxiety and disgust.",
+        "details": {}
     },
     "brown": {
         "title": "Brown",
         "rgb": "#764B24",
-        "details": {
-            
-        }
+        "meaning": "Considered the color of the earth, the brown expresses security, maturity, comfort and simplicity. In addition, it is also related to natural products and healthy lifestyle.",
+        "details": {}
     },
     "gray": {
         "title": "Gray",
         "rgb": "#BFBFBF",
-        "details": {
-            
-        }
+        "meaning": "This neutral color corresponds to stability, solidity and absence of emotions. Many times it is used to represent sophisticated elements. Despite this, some people associate gray with loneliness, depression and sadness.",
+        "details": {}
     },
     "white": {
         "title": "White",
         "rgb": "#FFFFFF",
-        "details": {
-            
-        }
+        "meaning": "It represents peace, purification, innocence and clarity. It is also recognized as a color that conveys calmness and helps achieve balance. In Western culture it represents joy, while in the East it is related to mourning.",
+        "details": {}
     },
     "black": {
         "title": "Black",
         "rgb": "#111111",
-        "details": {
-            
-        }
+        "meaning": "The black color is obtained when the absorption of all the radiations of the solar spectrum takes place. This color is related to death, loneliness and isolation. In addition, it is also considered a sophisticated and elegant color.",
+        "details": {}
     }
 }

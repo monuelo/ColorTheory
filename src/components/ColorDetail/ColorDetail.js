@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import styles from './ColorDetail.module.css';
-import Card from '../Card/Card';
 
 class ColorDetail extends Component {
     render() {
@@ -10,11 +9,17 @@ class ColorDetail extends Component {
                     {this.props.details.title}
                 </h1>
                 <div className={styles.card}>
-                    Meaning
+                    <span className={styles.subtitle}>
+                        Meaning
+                    </span>
+                    <span className={styles.content}>
+                        {this.props.details.meaning}
+                    </span>
                 </div>
-
                 <div className={styles.card}>
-                    Info
+                    <span className={styles.subtitle}>
+                        Tags
+                    </span>
                 </div>
             </div>
         )
