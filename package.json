@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://colortheory.hericles.me",
   "dependencies": {
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^3.0.0",
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
     "react-scripts": "3.0.0"
